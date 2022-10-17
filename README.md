@@ -4,12 +4,12 @@
     </a>
 </p> 
 
-### [Project Title]
+### [VOICE ASSIST]
 Hello,
-Welcome to.. {PROJECT BASIC INTRODUCTION]
-[PROJECT DOMAIN]
+Welcome Voice Assist, a speech to text model specially catering to doctors to maintain their patient records using streaming transcription.
+NLP
 ### [PREREQUISITE KNOWLEDGE]
-* List down the technical aspects like HTML, NodeJs, Django
+Python,Machine Learning,Natural Language Processing, 
 
 
 
