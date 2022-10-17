@@ -1,4 +1,4 @@
-# [PROJECT NAME]- Contributions
+# Voice Assist- Contributions
 
 
 ## Prerequisite
@@ -19,8 +19,7 @@
 1. Mention down the points how to run the project locally.
 
 ## How to contribute/ Creating a PR
-[Mention how to contribute or creating a successful PR]
-Like you want the contibutors to directly contibute in the main branch or create a separate branch for new PR.
+Contributors can contribute to the main branch for a successful PR.
 
 ## Recent updates
 [Mention any updates]
