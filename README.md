@@ -6,10 +6,10 @@
 
 ### [VOICE ASSIST]
 Hello,
-Welcome Voice Assist, a speech to text model specially catering to doctors to maintain their patient records using streaming transcription.
-NLP
+Welcome Voice Assist, a speech to text model using CTC Loss and Short-Time Fourier Transform.
+NLP, Deep Learning
 ### [PREREQUISITE KNOWLEDGE]
-Python,Machine Learning,Natural Language Processing, 
+Python,Machine Learning,Natural Language Processing,Deep Learning
 
 
 
