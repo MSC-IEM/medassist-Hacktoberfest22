@@ -69,11 +69,6 @@ Why not start your open source journey by merging some codes here. It will be ve
 ### List of Contributors
    Jump to [Contributors.md](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/main/contributors.md)
    
-### Live project link
-* Heroku - [Project Link]
-* Website - [Project Link]
-
-
 
 Thank You! Keep Contributing :octocat:
 
